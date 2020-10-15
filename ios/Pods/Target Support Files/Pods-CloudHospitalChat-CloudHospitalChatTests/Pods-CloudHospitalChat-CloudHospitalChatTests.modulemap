@@ -1,0 +1,6 @@
+module Pods_CloudHospitalChat_CloudHospitalChatTests {
+  umbrella header "Pods-CloudHospitalChat-CloudHospitalChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
